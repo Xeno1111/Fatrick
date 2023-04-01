@@ -1,0 +1,261 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.main{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #323233;
+  position: fixed;
+  background-image: url("vects.jpg.jpg");
+  background-position-x: center;
+  background-size: cover;
+  
+}
+
+
+
+nav{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  padding: 20px 0;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  width: 80px;
+  cursor: pointer;
+ 
+
+}
+
+
+.hey{
+  margin-left: 12%;
+  margin-top: 10%;
+  position: relative;
+  left: 30%;
+}
+
+.hey h1{
+  font-size: 50px;
+  color:rgb(241, 238, 241);
+  margin-bottom: 20px;
+  position: relative;
+  
+  
+}
+
+span{
+  color: #e389f5;
+  
+  
+}
+
+.hey p{
+  color: #f8f8f8;
+  line-height: 22px;
+
+  position: relative;
+
+  
+}
+
+.hey a{
+  background: #73c3da;
+  padding: 10px 18px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+  margin: 30px 0;
+  border-radius: 5px;
+  position: relative;
+  
+  
+}
+
+.images{
+  width: 45%;
+  height: 60%;
+  position: absolute;
+  bottom: 15%;
+  right: 100px;
+  
+  
+  
+}
+
+.images img{
+  border-radius: 50%;
+  height: 80%;
+  position: relative;
+  left: -70%;
+  bottom: 0;
+ 
+  
+}
+
+
+/* ABOUT ME */
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.me{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #e2e9b9;
+  position: fixed;
+  background-image: url("chada.jpg");
+  background-position-x: center;
+  background-size: cover;
+}
+
+.logopic{
+  width: 80px;
+  cursor: pointer;
+ 
+
+}
+
+
+
+.imagesmee{
+  width: 45%;
+  height: 60%;
+  position: absolute;
+  bottom: 15%;
+  right: 100px;
+  
+}
+  
+.imagesmee img{
+  
+  height: 80%;
+  position: relative;
+  left: -70%;
+  bottom: 0;
+  size: 50%;
+}
+
+
+
+
+
+.para p{
+  
+  padding: 10px 18px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+  margin: 30px 0;
+  border-radius: 5px;
+  position: relative;
+  color: #ffffff;
+  background-color: #3f3d3d;
+  box-shadow: #666464;
+ 
+}
+
+
+
+.para{
+  margin-left: 12%;
+  margin-top:5%;
+  position: relative;
+  left: 30%;
+}
+
+.but a{
+  background: #dfaeae;
+  padding: 10px 18px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #3f3d3d;
+  display: inline-block;
+  margin: 30px 0;
+  border-radius: 5px;
+  position: relative;
+  
+}
+.but{
+  margin-left: 16%;
+  margin-top:8%;
+  position: relative;
+  left: 6%;
+}
+
+/* EDUCATION*/
+
+
+.ed{ 
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 8%;
+  font: 1em sans-serif;
+  margin-bottom: 12%;
+  
+  
+  
+}
+
+.ed p{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e2e9b9;
+
+}
+.ed hr{
+  color: #e2e9b9;
+
+}
+.ed h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e2e9b9;
+   
+}
+.ed h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e2e9b9;
+
+}
+.ed ul li{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #e2e9b9;
+
+}
+
+.ahay{
+  margin-right: 16%;
+  margin-bottom: 8%;
+  position: relative;
+  left: 6%;
+}
+
+.ahay a{
+
+    background: #dfaeae;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #3f3d3d;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+    position: relative;
+}
+
+
+  
